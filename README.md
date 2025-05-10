@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 this is only my personal repository, you can find my work repository here: https://github.com/Osiris-Team
 
 <!--
 **Arman-Kandel/Arman-Kandel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
